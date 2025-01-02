@@ -1,6 +1,6 @@
 # EPKL-Journal_OCR
 
-"Some people just wanted to watch their student/user manually type a long ass internship journal"
+*"Some people just wanted to watch their student/user manually type a long ass internship journal into spreadsheet"*
 
 as the name says, EPKL Journal OCR. Read data and split by date automatically, and logged in csv,
 
@@ -15,7 +15,10 @@ as the name says, EPKL Journal OCR. Read data and split by date automatically, a
 4. scrcpy
 
 ## Note
-1. This code is ai-assisted
+1. Dont forget to ctrl+c after the last log or you wanted to stop early.
+2. if the data didnt fully read, it will fill the blanks with "Unknown"
+3. Please, Please, Re-check your log after its done. im not responsible for anything (unless you found a bug, please message me.)
+4. This code is AI-Assisted
    - ChatGPT to brainstorm
    - Claude for fine-tuning
 
